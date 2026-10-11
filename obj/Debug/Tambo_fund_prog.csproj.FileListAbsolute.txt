@@ -1,0 +1,7 @@
+D:\C#\Tambo\Tambo_fund_prog\bin\Debug\Tambo_fund_prog.exe.config
+D:\C#\Tambo\Tambo_fund_prog\bin\Debug\Tambo_fund_prog.exe
+D:\C#\Tambo\Tambo_fund_prog\bin\Debug\Tambo_fund_prog.pdb
+D:\C#\Tambo\Tambo_fund_prog\obj\Debug\Tambo_fund_prog.csproj.AssemblyReference.cache
+D:\C#\Tambo\Tambo_fund_prog\obj\Debug\Tambo_fund_prog.csproj.CoreCompileInputs.cache
+D:\C#\Tambo\Tambo_fund_prog\obj\Debug\Tambo_fund_prog.exe
+D:\C#\Tambo\Tambo_fund_prog\obj\Debug\Tambo_fund_prog.pdb
