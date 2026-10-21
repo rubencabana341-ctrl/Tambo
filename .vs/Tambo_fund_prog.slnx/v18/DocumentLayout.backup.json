@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\C#\\Tambo\\Tambo_fund_prog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3989212-8055-4A90-A7E6-7A2876E0BFCB}|Tambo_fund_prog.csproj|d:\\c#\\tambo\\tambo_fund_prog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3989212-8055-4A90-A7E6-7A2876E0BFCB}|Tambo_fund_prog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FC1F045-4C66-47A8-90B9-9E76E11A48D1}|..\\Commit5\\Commit5.csproj|d:\\c#\\tambo\\commit5\\commit5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB50AC8-B996-40F8-9FFC-644F0485BAE8}|..\\Commit4\\Commit4.csproj|d:\\c#\\tambo\\commit4\\commit4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FC8AE8-98DD-4477-9487-A32742719483}|..\\Commit3\\Commit3.csproj|d:\\c#\\tambo\\commit3\\commit3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B71EA3-E20F-4186-8662-E2EDDC067A9C}|..\\Commit2\\Commit2.csproj|d:\\c#\\tambo\\commit2\\commit2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3989212-8055-4A90-A7E6-7A2876E0BFCB}|Tambo_fund_prog.csproj|d:\\c#\\tambo\\tambo_fund_prog\\commit1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3989212-8055-4A90-A7E6-7A2876E0BFCB}|Tambo_fund_prog.csproj|solutionrelative:commit1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,6 +28,76 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Commit1.cs",
+              "DocumentMoniker": "D:\\C#\\Tambo\\Tambo_fund_prog\\Commit1.cs",
+              "RelativeDocumentMoniker": "Commit1.cs",
+              "ToolTip": "D:\\C#\\Tambo\\Tambo_fund_prog\\Commit1.cs",
+              "RelativeToolTip": "Commit1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T21:26:29.572Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Commit2.cs",
+              "DocumentMoniker": "D:\\C#\\Tambo\\Commit2\\Commit2.cs",
+              "RelativeDocumentMoniker": "..\\Commit2\\Commit2.cs",
+              "ToolTip": "D:\\C#\\Tambo\\Commit2\\Commit2.cs",
+              "RelativeToolTip": "..\\Commit2\\Commit2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T12:32:43.338Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Commit3.cs",
+              "DocumentMoniker": "D:\\C#\\Tambo\\Commit3\\Commit3.cs",
+              "RelativeDocumentMoniker": "..\\Commit3\\Commit3.cs",
+              "ToolTip": "D:\\C#\\Tambo\\Commit3\\Commit3.cs",
+              "RelativeToolTip": "..\\Commit3\\Commit3.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T13:51:27.165Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Commit4.cs",
+              "DocumentMoniker": "D:\\C#\\Tambo\\Commit4\\Commit4.cs",
+              "RelativeDocumentMoniker": "..\\Commit4\\Commit4.cs",
+              "ToolTip": "D:\\C#\\Tambo\\Commit4\\Commit4.cs",
+              "RelativeToolTip": "..\\Commit4\\Commit4.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAwJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:10:42.17Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Commit5.cs",
+              "DocumentMoniker": "D:\\C#\\Tambo\\Commit5\\Commit5.cs",
+              "RelativeDocumentMoniker": "..\\Commit5\\Commit5.cs",
+              "ToolTip": "D:\\C#\\Tambo\\Commit5\\Commit5.cs*",
+              "RelativeToolTip": "..\\Commit5\\Commit5.cs*",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAiwJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T14:15:20.388Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -31,19 +113,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\Tambo\\Tambo_fund_prog\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\C#\\Tambo\\Tambo_fund_prog\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T21:26:29.572Z",
-              "EditorCaption": ""
             }
           ]
         }
